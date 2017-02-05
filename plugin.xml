@@ -44,7 +44,7 @@
         <source-file src="src/android/AdMobMediation.java" target-dir="src/com/rjfun/cordova/admob" />
         <source-file src="src/android/AdMobPlugin.java" target-dir="src/com/rjfun/cordova/admob" />
 
-       
+
      </platform>
      
     <!-- same as android, but use ant instead of gradle -->
